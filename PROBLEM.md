@@ -12,13 +12,22 @@ Write a Java program to store the personal details and the order details of a cu
 - Set the object of PizzaOrder class initialized in the setup method to null in the tearDown() method, that will be called after the execution of every test case.
 - Create the given test cases in the PizzaOrderTest class created in the test package.
 
-**public void givenNoOfPizzaAndPriceOfPizzaCalculateTotalPriceSuccess() 
-public void givenNoOfGarlicBreadAndPriceOfGarlicBreadCalculateTotalPriceSuccess()
-public void givenNoOfBeveragesAndPriceOfBeverageCalculateTotalPriceSuccess()
-public void givenNoOfPizzaAndPriceOfPizzaCalculateTotalPriceFailure() 
-public void givenNoOfGarlicBreadAndPriceOfGarlicBreadCalculateTotalPriceFailure()
-public void givenNoOfBeveragesAndPriceOfBeverageCalculateTotalPriceFailure()
-public void givenSizeofPizzaReturnPrice()
-public void givenPriceOfItemsCalculateTotalBillAmount()
-public void givenTotalBillAmountGreaterThan50CalculateDiscount()
-public void givenTotalBillLessThan50AmountCalculateDiscount()**
+**public void givenNoOfPizzaAndPriceOfPizzaCalculateTotalPriceSuccess()**
+
+**public void givenNoOfGarlicBreadAndPriceOfGarlicBreadCalculateTotalPriceSuccess()**
+
+**public void givenNoOfBeveragesAndPriceOfBeverageCalculateTotalPriceSuccess()**
+
+**public void givenNoOfPizzaAndPriceOfPizzaCalculateTotalPriceFailure()**
+
+**public void givenNoOfGarlicBreadAndPriceOfGarlicBreadCalculateTotalPriceFailure()**
+
+**public void givenNoOfBeveragesAndPriceOfBeverageCalculateTotalPriceFailure()**
+
+**public void givenSizeofPizzaReturnPrice()**
+
+**public void givenPriceOfItemsCalculateTotalBillAmount()**
+
+**public void givenTotalBillAmountGreaterThan50CalculateDiscount()**
+
+**public void givenTotalBillLessThan50AmountCalculateDiscount()**
